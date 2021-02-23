@@ -4,11 +4,20 @@ video {
   height: 90%;
   position: fixed;
   z-index: -1;
-  opacity: 800%;
+  opacity: 80%;
+}
+
+.image {
+  object-fit: cover;
+  width: 100%;
+  height: 90%;
+  position: fixed;
+  z-index: -1;
+  opacity: 80%;
 }
 
 .hero-container {
-  /* background: url("images/img-home.jpg") center center/cover no-repeat; */
+  /* background: url("../images/img-5.jpg") center center/cover no-repeat; */
   height: 100vh;
   width: 100%;
   display: flex;
